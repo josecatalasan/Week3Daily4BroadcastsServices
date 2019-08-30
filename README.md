@@ -31,3 +31,5 @@ The Alarm Manager was used in the onClick method in the ViewHolder class and set
 
 ## Work Manager Code Lab
 The project that was worked on is included in the file.
+
+![](appStartup.png) ![](rvScrolling.png) ![](lowBatSystemMessage.png) ![](alarmSoundOff.png)
